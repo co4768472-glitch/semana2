@@ -2,8 +2,6 @@ def transformar_texto(texto, opcion):
 
     if opcion == 1:
 
-        # 1. Convertir a mayúsculas
-
         resultado = texto.upper()
 
     elif opcion == 2:
