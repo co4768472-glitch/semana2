@@ -6,7 +6,7 @@ def probar_validacion(texto, numero):
     elif numero == 3:
         resultado = texto.capitalize()
     else:
-        # El escudo protector que pide el profe
+
         resultado = "opción inválida"
 
     print("Resultado de la operación:", resultado)
